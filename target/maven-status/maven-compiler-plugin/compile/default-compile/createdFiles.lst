@@ -1,0 +1,7 @@
+com\mycompany\aajr\modelo\Productos.class
+com\mycompany\aajr\modelo\Usuario.class
+com\mycompany\aajr\controller\ProductoServlet.class
+com\mycompany\aajr\modelo\Compras.class
+com\mycompany\aajr\controller\UsuarioServlet.class
+com\mycompany\aajr\controller\LoginServlet.class
+com\mycompany\aajr\modelo\ConectionBD.class
